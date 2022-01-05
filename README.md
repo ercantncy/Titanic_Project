@@ -7,9 +7,7 @@ In this notebook, I hope to show how to go about working through a problem. The 
 ### 1) Understand the shape of the data (Histograms, box plots, etc.)
 ### 2) Data Cleaning
 ### 3) Data Exploration
-### 4) Feature Engineering
-### 5) Data Preprocessing for Model
-### 6) Basic Model Building
-### 7) Model Tuning
-### 8) Ensemble Modle Building
-### 9) Results
+### 4) Data Preprocessing for Model
+### 5) Results  
+
+%76 Succesull
